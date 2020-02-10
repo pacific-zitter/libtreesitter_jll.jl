@@ -1,0 +1,97 @@
+[[libtreesitter]]
+arch = "x86_64"
+git-tree-sha1 = "9027b2b2042783952c12425aece28e4a2227c130"
+libc = "musl"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "d45b095941778a6f30a0571de995dc45a0ab38e645f333cf3e2e98113b14d8d1"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.x86_64-linux-musl.tar.gz"
+[[libtreesitter]]
+arch = "armv7l"
+git-tree-sha1 = "5e83d231cf99d5824a6172a6416c0f4d14eaa080"
+libc = "glibc"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "4733fe1cba1f7c843bd60b9ee641811ebdf987cd6d3901f376da754e85c0c635"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.arm-linux-gnueabihf.tar.gz"
+[[libtreesitter]]
+arch = "aarch64"
+git-tree-sha1 = "239167611726c6981a27e9770f1067be6bd5a9ca"
+libc = "musl"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "50248409d25f18b466ccd2218b4053ae71ef8e4b0cdb0279829268f0709b6d57"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.aarch64-linux-musl.tar.gz"
+[[libtreesitter]]
+arch = "armv7l"
+git-tree-sha1 = "e7e2225d22ecfa14db87c259aa13f4f690e1566e"
+libc = "musl"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "302f4b883f290d0ff6f28efffc654806da36a652888b92d29e2a2cb6b71592b6"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.arm-linux-musleabihf.tar.gz"
+[[libtreesitter]]
+arch = "i686"
+git-tree-sha1 = "08f6630041c5f3752ad3244d058372d1a316ed3a"
+libc = "glibc"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "e57151cb18b2a0c6b8a93657383c3a12dea9cfa9dd1488e9994303ec555ab8cc"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.i686-linux-gnu.tar.gz"
+[[libtreesitter]]
+arch = "x86_64"
+git-tree-sha1 = "73a95ef44858e5b039faaeb2b6c772f5c48f5d88"
+os = "macos"
+
+    [[libtreesitter.download]]
+    sha256 = "054096cc73d3c32bd2772d71c29cd36bd8271d31ab0b15d9987eacd131acc445"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.x86_64-apple-darwin14.tar.gz"
+[[libtreesitter]]
+arch = "powerpc64le"
+git-tree-sha1 = "0eed21e1f7b7908dc74b76cff0cb9a4eaa5042e7"
+libc = "glibc"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "52cb1c5ec288ce87a8337a4a4db64b6a9cf41903cf85a6c4b0a800380b22ee66"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[libtreesitter]]
+arch = "x86_64"
+git-tree-sha1 = "1c98d14b479d58612d963c1b9067d7e0bb84efb9"
+libc = "glibc"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "0348a72fdb91722c2c6f0381b089bde605cc864e08f687c1f9c9bc9caeb72c0e"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[libtreesitter]]
+arch = "x86_64"
+git-tree-sha1 = "127fde3cb3332a524fd22c737c3a23769aed7dee"
+os = "freebsd"
+
+    [[libtreesitter.download]]
+    sha256 = "c383a1dbf2a4a04141a7fcee13ab54ba6ed4a8b0144b0f15d0bab51d60d47714"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[libtreesitter]]
+arch = "i686"
+git-tree-sha1 = "45f31170dc694d28817cdadb9b41f83766615a23"
+libc = "musl"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "b5c5946dd2c7e4072d1fc520eb6920ad30ffb735e550b9fa242d3353c600d9ce"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.i686-linux-musl.tar.gz"
+[[libtreesitter]]
+arch = "aarch64"
+git-tree-sha1 = "c4c27c67cbd2645d2ccebc2cb14cf01261c8c3f4"
+libc = "glibc"
+os = "linux"
+
+    [[libtreesitter.download]]
+    sha256 = "8686cedb2d22cf9b50d54a79408ad98d01b0a0e5b4b300884cc308426ec8eca8"
+    url = "https://github.com/pacific-zitter/libtreesitter_jll.jl/releases/download/libtreesitter-v0.1.0+0/libtreesitter.v0.1.0.aarch64-linux-gnu.tar.gz"
