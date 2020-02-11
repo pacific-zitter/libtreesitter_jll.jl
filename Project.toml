@@ -1,6 +1,6 @@
 name = "libtreesitter_jll"
 uuid = "71c4d463-9f53-531e-9abc-8645b34ce656"
-version = "0.1.0+0"
+version = "0.1.0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
